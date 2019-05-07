@@ -1,4 +1,4 @@
-# mongoTest
+# Mongo Test
 
 ## Как запустить проект
 
